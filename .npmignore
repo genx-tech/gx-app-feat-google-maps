@@ -1,0 +1,20 @@
+# .npmignore 
+
+.mocharc.js
+.gitignore
+.gitattributes
+.travis.yml
+.prettierignore
+jsdoc.json
+babel.config.js
+*.log
+*.md
+src
+test
+examples
+docs
+coverage
+allure-results
+node_modules
+.nyc_output
+.husky
