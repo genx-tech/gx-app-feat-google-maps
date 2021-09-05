@@ -1,0 +1,12 @@
+{
+    "timezone": "Australia/Sydney",
+    "featureRegistry": {
+        "googleMaps": "src/index"
+    },
+    "googleMaps": {
+        "apiKey": "Set a api key first",
+        "apiDefaultArgs": {
+            "timeout": 3000
+        }        
+    }    
+}
